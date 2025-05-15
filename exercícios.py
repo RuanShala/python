@@ -37,7 +37,7 @@ True or False #O operador or só resulta em falso quando todos os operandos lóg
 #Exercício 1:
 nota_1= 10.0
 nota_2= 5.0
-nota_3= 4.3
+nota_3= 6.0
 nota_4= 6.0
 soma = nota_1 + nota_2 + nota_3 + nota_4
 media = soma / 4
